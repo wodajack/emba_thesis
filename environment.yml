@@ -1,0 +1,13 @@
+name: emba_thesis_env
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - python
+  - pyarrow
+  - tensorflow
+  - statsmodels
+  - numpy
+  - scikit-learn
+  - pmdarima
+  - ipykernel
