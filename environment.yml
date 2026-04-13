@@ -12,3 +12,5 @@ dependencies:
   - pmdarima
   - ipykernel
   - seaborn
+  - notebook
+  
