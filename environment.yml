@@ -13,4 +13,4 @@ dependencies:
   - ipykernel
   - seaborn
   - notebook
-  
+  - plotly
