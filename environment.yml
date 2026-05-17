@@ -12,4 +12,4 @@ dependencies:
   - pmdarima
   - ipykernel
   - seaborn
-  - notebook
+  - plotly
