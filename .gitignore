@@ -211,3 +211,6 @@ __marimo__/
 
 # Local CSV Files
 *.csv
+
+# Notebook outputs (kept local only)
+notebooks/outputs/
