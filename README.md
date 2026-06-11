@@ -1,2 +1,2 @@
 # emba_thesis
-My master thesis for EMBA on rail predictions
+My master thesis about rail freight volume predictions / EMBA @WU-EA
