@@ -18,3 +18,4 @@ dependencies:
     - xgboost
     - torch
     - pyarrow
+    - pmdarima
